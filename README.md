@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Mohammed-Nedjima/newsletter-sign-up-form)
+- Live Site URL: [Add live site URL here](https://mohammed-nedjima.github.io/newsletter-sign-up-form/)
 
 ## My process
 
@@ -52,13 +52,13 @@ Users should be able to:
 
 ### What I learned
 
--I learned how to validate html forms using JavaScript and how to store the form data localy on the project diractory using:
+-I learned how to validate html forms using JavaScript and how to store the form data locally on the project directory using:
 
 ```js
 localStorage.getItem("formData", JSON.stringify(data));
 ```
 
--I learned also how to rout between pages when clicking on a button using js with the code below:
+-I also learned how to route between pages when clicking on a button using JS with the code below:
 
 ```js
 location.href = "./sucess.html";
@@ -71,4 +71,4 @@ location.href = "./sucess.html";
 
 ## Acknowledgments
 
-Thanks for frontend Mentor team for providing such a powerful website to practice your front-end skills and make it to the next level, and for provideing the necessery source files for this challenge.
+Thanks to the frontend Mentor team for providing such a powerful website to practice your front-end skills and make it to the next level, and for providing the necessary source files for this challenge.
